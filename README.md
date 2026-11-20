@@ -1,2 +1,4 @@
 # my-first-repo
-My first GitHub lab repository
+## About
+Name: Wasif Ur Rehman
+Roll Number: 26P-0691
