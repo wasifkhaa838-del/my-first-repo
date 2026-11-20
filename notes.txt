@@ -85,6 +85,7 @@
   </tr>
   </table>
 <h2> Contact </h2>
-<p> For any query contact departement office during working hours</p>  
+<p> For any query contact departement office during working hours</p> 
+<p>wasifkhaa838@gmail.com</p>
 </body>
 </html>
